@@ -1,5 +1,5 @@
 {
-  "homepage": "https://naseer4864.github.io/naseerportfolio",
+  "homepage":"https://github.com/naseer4864/naseerportfolio",
   "name": "react-per-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -50,7 +50,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
+"devDependencies": {
     "gh-pages": "^4.0.0"
   }
 }
